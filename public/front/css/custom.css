@@ -1,0 +1,56 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates F32D2D
+-----------------------------------------------------------------*/
+
+
+
+
+.error{
+    color: red !important;
+}
+.word_break{
+    word-break: break-all !important;
+}
+.text_white{
+    color: white !important;
+}
+.nav-item > .active{
+    color: #D2042D !important;
+}
+.bg-secondary {
+    background-color: #D2042D !important;
+}
+.nav-tabs .nav-item .nav-link.active:after {
+    background-color: white !important;
+}
+.text-primary {
+    color: #D2042D !important;
+}
+.btn-primary {
+    background-color: #D2042D !important;
+    border-color: #D2042D !important;
+}
+.btn-primary:hover{
+    background-color: #D2042D !important;
+    border-color: #D2042D !important;
+}
+
+.primary-menu ul.navbar-nav > li:hover > a:not(.btn), .primary-menu ul.navbar-nav > li.active > a:not(.btn), .login-signup ul.navbar-nav > li:hover > a:not(.btn), .login-signup ul.navbar-nav > li.active > a:not(.btn) {
+    color: #D2042D !important;
+}
+.featured-box .featured-box-icon {
+    color: #D2042D !important;
+}
+/* a, a:focus {
+    color: #D2042D !important;
+} */
+#preloader [data-loader="dual-ring"] {
+    border: 5px solid #D2042D;
+    border-color: #D2042D #f1f5f6 #D2042D #f1f5f6;
+}
+.blog-post .meta-blog li i {
+    color: #D2042D;
+}

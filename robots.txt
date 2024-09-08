@@ -1,0 +1,6 @@
+User-agent: *
+sitemap: https:://www.honestcab.in/sitemap.xml
+Disallow: /one-way-booking
+Disallow: /outstation-booking
+Disallow: /local-booking
+Disallow: /admin
